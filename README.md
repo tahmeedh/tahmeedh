@@ -5,7 +5,7 @@
 <h1 align="center">👾 TAHMEEDH // SYSTEM BREACHED 👾</h1>
 
 <p align="center">
-  <strong>Real-time visitor scanner • Neon cyber stats • Snake eats my contributions live</strong>
+  <strong>AI Security Model Architect • Enterprise SIEM & Threat Detection Leader • Expert Incident Response</strong>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 Every visitor gets scanned in real time.
 
 <p align="center">
-  <img src="https://cyber-widget.vercel.app/api/cyber?cache=12345" alt="Cyberpunk Visitor Widget"/>
+  <img src="https://your-project.vercel.app/api/cyber?cache=20260331" alt="Cyberpunk Visitor Widget"/>
 </p>
 
 ---
