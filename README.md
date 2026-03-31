@@ -14,7 +14,7 @@
 Every visitor gets scanned in real time.
 
 <p align="center">
-  <img src="https://your-project.vercel.app/api/cyber?cache=20260331" alt="Cyberpunk Visitor Widget"/>
+  <img src="https://your-project.vercel.app/api/cyber" alt="Cyberpunk Visitor Widget"/>
 </p>
 
 ---
