@@ -21,7 +21,6 @@ Every visitor gets scanned in real time.
 
 ### 🐍 CONTRIBUTION SNAKE – MATRIX MODE
 
-The snake devours my daily commits in pure cyberpunk style.
 
 <div align="center">
   <picture>
@@ -35,10 +34,6 @@ The snake devours my daily commits in pure cyberpunk style.
 
 ### 📊 NEON STATS OVERLOAD
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmeedh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a2a&title_color=00f0ff&text_color=ffffff&icon_color=ff00ff" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmeedh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2a&title_color=00f0ff&text_color=ffffff" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmeedh&theme=tokyonight&hide_border=true&background=0a0a2a&stroke=00f0ff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff" alt="Streak"/>
