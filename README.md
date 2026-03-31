@@ -16,7 +16,7 @@
 
 I am a Security Engineer with deep experience in AI-powered security testing and enterprise threat detection. I have worked professionally in cybersecurity for several years — including leading AI security models at Encorp and running Splunk SIEM + incident response at Amazon. I hold multiple industry certifications (CompTIA Security+, AWS Cloud Practitioner, Google Cybersecurity, and more) and have a strong background in vulnerability management, cloud security, and automation.
 
-* 🌍 I'm based in Seattle, Washington 🇺🇸
+* 🌍 I'm based in Canada and Spain
 
 * 🖥️ See my portfolio at [github.com/tahmeedh](https://github.com/tahmeedh)
 
@@ -34,7 +34,7 @@ I am a Security Engineer with deep experience in AI-powered security testing and
 Every visitor gets scanned in real time.
 
 <p align="center">
-  <img src="https://YOUR-REAL-VERCEL-URL.vercel.app/api/cyber" alt="Cyberpunk Visitor Widget"/>
+  <img src="https://cyber-widget.vercel.app/api/cyber" alt="Cyberpunk Visitor Widget"/>
 </p>
 
 ---
@@ -56,16 +56,7 @@ The snake devours my daily commits in pure cyberpunk style.
 ### 📊 NEON STATS OVERLOAD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmeedh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a2a&title_color=00f0ff&text_color=ffffff&icon_color=ff00ff" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmeedh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2a&title_color=00f0ff&text_color=ffffff" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmeedh&theme=tokyonight&hide_border=true&background=0a0a2a&stroke=00f0ff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahmeedh&theme=onestar&column=3&margin-w=15&no-bg=true&bg_color=0a0a2a" alt="Trophies"/>
 </p>
 
 ---
@@ -90,7 +81,7 @@ Stay frosty, hacker. 🔥👁️‍🗨️
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f0ff,50:ff00ff,100:8a2be2&height=120&section=footer&text=ENTER%20THE%20MATRIX%20%F0%9F%94%A5&fontSize=22&fontColor=ffffff" alt="Footer"/>
 </p>
 
-### 🌍 GLOBAL VISITOR COUNTERS
+### 🌍 VISITOR COUNTERS
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tahmeedh&color=00f0ff&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views"/>
