@@ -43,4 +43,10 @@ Every visitor gets scanned in real time.
 </p>
 
 ---
+### 🌍 GLOBAL VISITOR COUNTERS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahmeedh&color=00f0ff&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/tahmeedh/count.svg" alt="Total Visitors"/>
+</p>
 
