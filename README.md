@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff00ff,100:8a2be2&height=300&section=header&text=TAHMEED%20H&fontSize=95&fontColor=ffffff&animation=twinkling&desc=SOFTWARE%20AUTOMATION%20ENGINEER%20%7C%20CANADA&descSize=30&descAlign=50&descAlignY=75" alt="Cyber Banner"/>
 </p>
 
-<h1 align="center">👾 TAHMEEDH // SYSTEM BREACHED 👾</h1>
+<h1 align="center">👾 LIFE LONG LEARNER 👾</h1>
 
 <p align="center">
   <strong>AI Security Model Architect • Enterprise SIEM & Threat Detection Leader • Expert Incident Response</strong>
