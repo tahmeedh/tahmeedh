@@ -38,11 +38,6 @@ Every visitor gets scanned in real time.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmeedh&theme=tokyonight&hide_border=true&background=0a0a2a&stroke=00f0ff&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff" alt="Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahmeedh&theme=onestar&column=3&margin-w=15&no-bg=true&bg_color=0a0a2a" alt="Trophies"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahmeedh&theme=tokyonight&hide_border=true&area=true&bg_color=0a0a2a&color=00f0ff&line=ff00ff" alt="Contribution Graph"/>
 </p>
