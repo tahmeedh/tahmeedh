@@ -18,8 +18,6 @@ I am a Security Engineer with deep experience in AI-powered security testing and
 
 * 🌍 I'm based in Canada and Spain
 
-* 🖥️ See my portfolio at [github.com/tahmeedh](https://github.com/tahmeedh)
-
 * ✉️ You can contact me at [tahmeedhossain@gmail.com](mailto:tahmeedhossain@gmail.com)
 
 * 🧠 I'm currently focusing on Advanced AI Security and Cloud Threat Detection
