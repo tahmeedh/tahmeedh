@@ -4,16 +4,6 @@
 
 <h1 align="center">👾 TAHMEEDH // SYSTEM BREACHED 👾</h1>
 
-### 💀 WHO AM I? // TERMINAL LOG
-
-```bash
-$ whoami
-→ Tahmeed H. | Canada, Spain and Bangladesh
-→ Full-stack cyber developer • AI automation • Neon code architect
-
-$ current_status
-→ Hacking reality one commit at a time
-→ Building unforgettable digital experiences
 <p align="center">
   <strong>Real-time visitor scanner • Neon cyber stats • Snake eats my contributions live</strong>
 </p>
