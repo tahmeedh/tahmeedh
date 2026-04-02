@@ -12,9 +12,9 @@
 
 **Hi 👋 My name is Tahmeed**
 
-**Security Engineer**
+**AI Security Engineer**
 
-I am a Security Engineer with deep experience in AI-powered security testing and enterprise threat detection. I have worked professionally in cybersecurity for several years — including leading AI security models at Encorp and running Splunk SIEM + incident response at Amazon. I hold multiple industry certifications (CompTIA Security+, AWS Cloud Practitioner, Google Cybersecurity, and more) and have a strong background in vulnerability management, cloud security, and automation.
+I am a AI Security Engineer with deep experience in AI-powered security testing and enterprise threat detection. I have worked professionally in cybersecurity for several years — including leading AI security models at Encorp and running Splunk SIEM + incident response at Amazon. I hold multiple industry certifications (CompTIA Security+, AWS Cloud Practitioner, Google Cybersecurity, and more) and have a strong background in vulnerability management, cloud security, and automation.
 
 * 🌍 I'm based in Canada and Spain
 
